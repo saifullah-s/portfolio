@@ -1,1 +1,6 @@
-
+[Pneumonia Detection](https://github.com/saifullah-s/pneumonia-detection)  
+[Heart Attack Prediction](https://github.com/saifullah-s/heart-attack-prediction)  
+[Stock Market Trend Prediction Using Daily News Headlines](https://github.com/saifullah-s/headlines-stock-trend)  
+[Machine Learning - Foundational Projects](https://github.com/saifullah-s/machine-learning-foundations)  
+[Deep Learning - Foundational Projects](https://github.com/saifullah-s/deep-learning-foundations)  
+[Vehicle Detection, Tracking, and Traffic Volume Analysis Using YOLOv8 on UA-DETRAC Dataset](https://github.com/saifullah-s/vehicle-tracking)  
